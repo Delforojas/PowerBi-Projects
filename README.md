@@ -1,38 +1,71 @@
-# 📊 PowerBI-Projects 
-Collection of Power BI projects focused on data analysis, visualization and business intelligence.
+# 📊 PowerBI-Projects
+
+Collection of Power BI projects focused on **data analysis, data visualization, and business intelligence**.
+
+This repository contains interactive dashboards developed with Microsoft Power BI, covering different analytical scenarios and demonstrating the use of **Power Query, DAX, data modeling, KPI analysis, and interactive reporting**.
 
 ## 📂 Projects
 
 ### 👥 1. Employee Analytics
 
-Dashboard focused on employee data, demographics and workforce analysis.
+Interactive dashboard focused on workforce analysis, including employee distribution by **department, gender, and geographic location**.
 
 ➡️ [View Project](./01_Employee_Analytics/README.md)
 
 ---
 
-### 💰 2. Sales Analytics
+### 💰 2. Financial Performance Analytics
 
-Analysis of sales performance, revenue and business KPIs.
+Financial dashboard designed to monitor **income, expenses, profit, and balance**, comparing actual performance against targets, budgets, and expected values.
 
-➡️ [View Project](./02_Sales_Analytics/README.md)
+Includes KPI tracking, monthly analysis, category-level comparisons, and interactive filtering.
+
+➡️ [View Project](./02_Financial_Performance_Analytics/README.md)
 
 ---
 
-### 📈 3. Third Project
+### 🌍 3. Global Population & Health Analytics
 
-Description of the third Power BI project.
+Global demographic and health analysis focused on **population, life expectancy, and infant mortality** across countries and continents.
 
-➡️ [View Project](./03_Third_Project/README.md)
+Includes geographic analysis, interactive filtering, and visual exploration of relationships between demographic and health indicators.
+
+➡️ [View Project](./03_Global_Population_Health_Analytics/README.md)
+
+---
 
 ## 🛠️ Technologies
 
-- Power BI
-
+- Microsoft Power BI
 - Power Query
-
 - DAX
-
 - Data Modeling
-
+- Data Visualization
+- KPI Analysis
 - Excel / CSV
+
+## 📁 Repository Structure
+
+```text
+PowerBI-Projects/
+│
+├── 01_Employee_Analytics/
+│   ├── data/
+│   ├── images/
+│   ├── Employee_analytics.pbix
+│   └── README.md
+│
+├── 02_Financial_Performance_Analytics/
+│   ├── data/
+│   ├── images/
+│   ├── Financial_Performance_Analytics.pbix
+│   └── README.md
+│
+├── 03_Global_Population_Health_Analytics/
+│   ├── data/
+│   ├── images/
+│   ├── Global_Population_Health_Analytics.pbix
+│   └── README.md
+│
+├── AGENTS.md
+└── README.md
