@@ -42,7 +42,8 @@ PowerBI-Employee-Analytics/
 ├── README.md
 │
 ├── data/
-│   └── employee_data.xlsx
+│   └── Datos Empleados.xlsx
 │
 └── images/
     └── dashboard.png
+    

@@ -2,8 +2,8 @@
 
 Interactive global analytics dashboard developed with Microsoft Power BI to explore population distribution, life expectancy, and infant mortality across countries and continents.
 
-![Dashboard Preview](images/dashboard1.png)
-![Dashboard Preview](images/dashboard2.png)
+![Dashboard Preview](images/population-dashboard.png)
+![Dashboard Preview](images/health-indicators-dashboard.png)
 
 ## 🔗 Live Dashboard
 
@@ -66,7 +66,11 @@ Global-Population-Health-Analytics/
 ├── README.md
 │
 ├── data/
-│   └── global_population_data.xlsx
+│   └── Countries.xlsx
+    └── Infant+death+rate.xlsx
+    └── Life+exepctancy.xlsx
+    └── Paises.xlsx
+    └── Population.xlsx
 │
 └── images/
     ├── population-dashboard.png

@@ -1,5 +1,4 @@
-# 📊 Power BI Portfolio
-
+# 📊 PowerBI-Projects 
 Collection of Power BI projects focused on data analysis, visualization and business intelligence.
 
 ## 📂 Projects

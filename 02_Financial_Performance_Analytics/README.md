@@ -173,11 +173,14 @@ These indicators provide a standardized way to compare financial performance acr
 │
 
 ├── data/
-
-│   └── financial_data.xlsx
+    └── calendarios/
+        └── Calendario2024.xlsx
+        └── Calendario2025.xlsx
+    └── Categorias.xlsx
+    └── Finanzas.xlsx
 
 │
 
 └── images/
 
-    └── dashboard.png
+    └── overview.png
